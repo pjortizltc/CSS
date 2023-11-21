@@ -1,2 +1,2 @@
 # CSS
-Working CSS Projects. This is an example from the CSS Springboard Bootcamp with USF
+Working CSS Projects. These are some sample of some of the work practiced during the USF bootcamp
