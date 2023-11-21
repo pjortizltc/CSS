@@ -4,7 +4,8 @@
 }
 
 .image {
-    opacity: 0.3;
+    opacity: 0.5;
+    color: rgb(102, 198, 230);
     display: block;
     width: 100%;
     height: auto;
@@ -14,4 +15,5 @@
 
 .container:hover .image {
     opacity: 1.0;
+    color: blue;
 }
